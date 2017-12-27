@@ -1,0 +1,27 @@
+{
+  "name": "@sprii/stylelint-config",
+  "description": "Sprii stylelint configuration",
+  "version": "0.1.0",
+  "keywords": [
+    "style-config",
+    "stylelint",
+    "lint",
+    "linter",
+    "style"
+  ],
+  "homepage": "https://github.com/teamsprii/stylelint-config",
+  "bugs": {
+    "url": "https://github.com/teamsprii/stylelint-config/issues"
+  },
+  "repository": "git://github.com/teamsprii/stylelint-config.git",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@sprii/eslint-config": "^0.1.0",
+    "eslint": "^4.3.0",
+    "stylelint": "^8.4.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.4.0"
+  }
+}

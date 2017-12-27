@@ -1,0 +1,7 @@
+{
+    "root": true,
+    "extends": [
+        "@sprii/eslint-config/es6",
+        "@sprii/eslint-config/addons/node"
+    ]
+}
